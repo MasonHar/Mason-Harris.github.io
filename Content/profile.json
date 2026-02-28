@@ -37,7 +37,21 @@
       "Title": "HuntOrca Data Pipeline",
       "Desc": "Developed a robust web scraping pipeline for California solar data. Engineered an 'intelligent scraper' by fine-tuning a local Ollama model to perform entity extraction on unstructured HTML.",
       "GitHubRepo": "",
-      "MainImage": "P2Main.png",
+      "MainImage": "p2Main.png",
       "DetailImages": ["P2Detail1.png", "P2Detail2.png", "P2Detail3.png", "P2Detail4.png"]
     },
+    "Project3": {
+      "Title": "",
+      "Desc": "",
+      "GitHubRepo": "",
+      "MainImage": "",
+      "DetailImages": []
+    },
+    "Project4": {
+      "Title": "",
+      "Desc": "",
+      "GitHubRepo": "",
+      "MainImage": "",
+      "DetailImages": []
+    }
 }
