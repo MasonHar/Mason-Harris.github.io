@@ -28,7 +28,7 @@
   },
   "Project1": {
       "Title": "flowposal",
-      "Desc": "An AI-Powered SaaS for Upwork and GovCon Freelancers. Architected the entire full-stack system using Next.js, React, Supabase, and the Google Gemini API to automate proposal generation and resume analysis.",
+      "Desc": "An AI-Powered SaaS for Upwork Freelancers. Architected the entire full-stack system using Next.js, React, Supabase, and the Google Gemini API to automate proposal generation and resume analysis.",
       "GitHubRepo": "https://flowposal.com",
       "MainImage": "P1Main.png",
       "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
