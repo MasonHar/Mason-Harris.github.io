@@ -18,7 +18,7 @@
     "School": "Seattle Pacific University",
     "Major": "Computer Science",
     "Graduation": "June 2028",
-    "EducationText": "Relevant Coursework: Data Structures & Algorithms, Software Engineering, Operating Systems, Computer Architecture, Database Systems, Differential Equations.",
+    "EducationText": "Relevant Coursework: Data Structures & Algorithms, Software Engineering, Computer Architecture, Database Systems, Differential Equations.",
     "Employment": "HuntOrca LLC",
     "Role": "Co-founder",
     "EmploymentText": "Co-founded a data startup; specialized in building an AI-powered data extraction pipeline using Python, Selenium, and an Ollama model that ingested and processed over 500,000 building permit records.",
