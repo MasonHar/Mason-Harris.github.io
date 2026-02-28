@@ -1,57 +1,43 @@
 {
-"About": {
-  "Name": "Robert J Zendejo",
-  "Currently": "Computer Science Student",
-  "Headshot": "student-portrait.png",
-  "Thumbnail": "student-logo.webp",
-  "AboutText": "Hi, I am Bob Zendejo. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
-},
-"Contact": {
-  "EMail": "zendejor@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
-  "LinkedIn": "https://linkedin.com",
-  "GitHub": "https://www.github.com"
-},
-"Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
-  "School": "Seattle Pacific University",
-  "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
-  "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
-},
-"Project1": {
-    "Title": "Interesting Project 1",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+  "About": {
+    "Name": "Mason Harris",
+    "Currently": "Computer Science Student & Software Developer",
+    "Headshot": "student-portrait.png",
+    "Thumbnail": "student-logo.webp",
+    "AboutText": "Hi, I am Mason Harris. I am a Computer Science student at Seattle Pacific University with a strong passion for Artificial Intelligence, Machine Learning, and building performant software. I enjoy taking on ambitious projects, from developing AI-powered SaaS applications to diving deep into C++ for performance-based solutions.<br><br>I am heavily involved in entrepreneurial tech, having co-founded a solar data platform and independently developed Flowposal, an AI-powered proposal automation tool. I am constantly learning and expanding my skill set, driven by a desire to create impactful and innovative software."
   },
-  "Project2": {
-    "Title": "Interesting Project 2",
-    "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+  "Contact": {
+    "EMail": "harrism13.email@spu.edu",
+    "Phone": "(425) 273-2050",
+    "Portfolio": "https://masonhar.github.io/Mason-Harris.github.io/experience",
+    "LinkedIn": "https://linkedin.com/in/mason-harris-b12904371",
+    "GitHub": "https://github.com/MasonHar"
   },
-  "Project3": {
-    "Title": "Interesting Project 3",
-    "Desc": "This is a description of Project Three.<br><br>It does not have a GitHub repo or any additional screenshots.",
-    "GitHubRepo": "",
-    "MainImage": "P3Main.png",
-    "DetailImages": []
+  "Experience": {
+    "ExperienceText": "I am a driven software developer and entrepreneur with experience building full-stack applications and AI-powered data pipelines. I am currently pursuing my BS in Computer Science while actively developing real-world SaaS products.",
+    "School": "Seattle Pacific University",
+    "Major": "Computer Science",
+    "Graduation": "June 2028",
+    "EducationText": "Relevant Coursework: Data Structures & Algorithms, Software Engineering, Operating Systems, Computer Architecture, Database Systems, Differential Equations.",
+    "Employment": "HuntOrca LLC",
+    "Role": "Co-founder",
+    "EmploymentText": "Co-founded a data startup; specialized in building an AI-powered data extraction pipeline using Python, Selenium, and an Ollama model that ingested and processed over 500,000 building permit records.",
+    "Skills": ["C++", "C#", "Python", "PostgreSQL"],
+    "SkillsText": "Expert-level prompt engineering with AI code generation tools, full-stack development, and data pipeline orchestration.",
+    "Resume": "student-resume.pdf"  
   },
-  "Project4": {
-    "Title": "",
-    "Desc": "",
-    "GitHubRepo": "",
-    "MainImage": "",
-    "DetailImages": []
-  }
+  "Project1": {
+      "Title": "flowposal",
+      "Desc": "An AI-Powered SaaS for Upwork and GovCon Freelancers. Architected the entire full-stack system using Next.js, React, Supabase, and the Google Gemini API to automate proposal generation and resume analysis.",
+      "GitHubRepo": "https://flowposal.com",
+      "MainImage": "P1Main.png",
+      "DetailImages": ["P1Detail1.png", "P1Detail2.png", "P1Detail3.png"]
+    },
+    "Project2": {
+      "Title": "HuntOrca Data Pipeline",
+      "Desc": "Developed a robust web scraping pipeline for California solar data. Engineered an 'intelligent scraper' by fine-tuning a local Ollama model to perform entity extraction on unstructured HTML.",
+      "GitHubRepo": "",
+      "MainImage": "P2Main.png",
+      "DetailImages": ["P2Detail1.png", "P2Detail2.png", "P2Detail3.png", "P2Detail4.png"]
+    },
 }
